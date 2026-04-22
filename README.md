@@ -33,11 +33,13 @@ O conteúdo aborda conceitos fundamentais como:
 
 ---
 
-## 🗺️ Diagrama de Topologia
+## 🧠 Arquitetura e Organização de Data Lake
 
-Este diagrama representa a organização e estrutura dos elementos abordados no projeto, ajudando a visualizar como os conceitos de modelagem e organização de dados se conectam.
+Este infográfico resume os principais conceitos de modelagem de dados em Data Lakes, incluindo ingestão, arquitetura em camadas (Bronze, Silver, Gold), formatos de dados e governança.
 
-![Topologia](./Infográfico.png) 
+<p align="center">
+  <img src="./Infografico.jpg" width="700px">
+</p>
 
 ---
 
